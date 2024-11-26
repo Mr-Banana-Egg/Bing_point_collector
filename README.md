@@ -25,9 +25,10 @@ This app automates the process of collecting Bing search rewards by:
 
 🔽 How to Install 🔽
 
-To install it you need to click on the Releases tab and install the sourse code as a zip then unzip it then do 
+```To install it you need to click on the Releases tab and install the source code as a zip unzip it and do 
 
-1.cd Bing_point_collector-s
+1. cd Bing_point_collector-s
+
 2.pip install -r requirements.txt
 This will install the needed packages 
 After that run "Bing point getter"
