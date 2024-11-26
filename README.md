@@ -1,4 +1,6 @@
 Bing Point Collector 🤖
+
+
 🤔 What Does the App Do? 🤔
 
 This app automates the process of collecting Bing search rewards by:
