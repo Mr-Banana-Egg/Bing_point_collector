@@ -7,7 +7,7 @@ ammount=int(10)#Change  the ammount you want to search (if needed)
 reward_button_coords = [(939, 1649), (1766, 1649), (2404, 1649)]
 secondary_coords = [(300, 1649),(939, 1649), (1766, 1649), (2404, 1649)]
 
-""" You can also edit the code below if you know what you are doing.The code below is annotated"""
+""" You can also edit the code below if you know what you are doing.The code below is annotated Also remember to open a browser when the program starts"""
 
 
 #sq by Chat GPT (you can change the ammount if needed)
